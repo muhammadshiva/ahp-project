@@ -27,4 +27,8 @@ Decision support system application with AHP method.
 6. Halaman Hasil
 <img src="screenshot/6.png" alt="hasil perhitungan" style="width: 500px;"/>
 
+7. Field Database
+<img src="screenshot/7.png" alt="hasil perhitungan" style="width: 500px;"/>
+
+
 
