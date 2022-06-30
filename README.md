@@ -9,16 +9,16 @@ Decision support system application with AHP method.
 
 ## Screenshot
 
-<img src="screenshot/1.png" alt="halaman kriteria" style="width: 250px;"/>
+<img src="screenshot/1.png" alt="halaman kriteria" style="width: 500px;"/>
 
-<img src="screenshot/2.png" alt="matriks nilai kriteria" style="width: 250px;"/>
+<img src="screenshot/2.png" alt="matriks nilai kriteria" style="width: 500px;"/>
 
-<img src="screenshot/3.png" alt="hasil perhitungan" style="width: 250px;"/>
+<img src="screenshot/3.png" alt="hasil perhitungan" style="width: 500px;"/>
 
-<img src="screenshot/4.png" alt="hasil perhitungan" style="width: 250px;"/>
+<img src="screenshot/4.png" alt="hasil perhitungan" style="width: 500px;"/>
 
-<img src="screenshot/5.png" alt="hasil perhitungan" style="width: 250px;"/>
+<img src="screenshot/5.png" alt="hasil perhitungan" style="width: 500px;"/>
 
-<img src="screenshot/6.png" alt="hasil perhitungan" style="width: 250px;"/>
+<img src="screenshot/6.png" alt="hasil perhitungan" style="width: 500px;"/>
 
 
